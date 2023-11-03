@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vansh Gawra, I am a College Student pursuing my Btech in AI & ML
-- 👀 I’m interested in Data Science,Machine Learning, Web Devlopment and Blockchain Devlopment
+- 👀 I’m interested in Data Science,Machine Learning & Web Devlopment
 - 🌱 I’m currently learning Full Stack Web Devlopment,Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
